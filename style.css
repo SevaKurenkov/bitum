@@ -8,6 +8,7 @@
     font-family: 'Bitum';
 }
 body{
+    overflow-x: hidden;
     width: 1280px;
     background-color: #001A3D;
     margin: 0 auto;
