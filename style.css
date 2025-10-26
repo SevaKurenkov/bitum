@@ -1,0 +1,291 @@
+@import url('stars.css');
+@import url('fonts.css');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Bitum';
+}
+body{
+    width: 1280px;
+    background-color: #001A3D;
+    margin: 0 auto;
+}
+.hero{
+    position: relative;
+    width: 100%;
+    height: 800px;
+}
+.stars{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    p{
+        color: #fff;
+        font-size: 13px;
+        animation: star 1s infinite;
+    }
+}
+@keyframes star{
+    0%{
+        opacity: 0.5;
+        transform: scale(1);
+    }
+    50%{
+        opacity: 1;
+        transform: scale();
+    }
+    100%{
+        opacity: 0.5;
+        transform: scale(1);
+    }
+}
+#bitum{
+    position: absolute;
+    top: 200px;
+    left: 115px;
+    width: 1092px;
+    height: 337px;
+}
+#f1{
+    position: absolute;
+    top: 22px;
+    left: 38px;
+    width: 153.8px;
+    height: 165.29px;
+}
+#f2{
+    position: absolute;
+    top: 92px;
+    left: 709px;
+    width: 154px;
+    height: 170px;
+}
+#f3{
+    position: absolute;
+    top: 6px;
+    left: 1105px;
+    width: 147.63px;
+    height: 66.58px;
+}
+#f4{
+    position: absolute;
+    top: 565px;
+    left: 170px;
+    width: 124px;
+    height: 204px;
+}
+#f5{
+    position: absolute;
+    top: 627px;
+    left: 525px;
+    width: 248px;
+    height: 155px;
+}
+#f6{
+    position: absolute;
+    top: 594px;
+    left: 1011px;
+    width: 216.5px;
+    height: 173.5px;
+}
+#roof{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    z-index: 1;
+}
+#candale1{
+    position: absolute; 
+    top: 176px;
+    left: 126px;
+    z-index: 2;
+    width: 242px;
+    height: 308.41px;
+}
+#candale2{
+    position: absolute;
+    top: 238px;
+    left: 850px;
+    z-index: 2;
+    width: 121px;
+    height: 160.44px;
+
+}
+#DVD{
+    position: absolute;
+    top: 500px;
+    left: 588px;
+    width: 44px;
+    height: 26px;
+    z-index: 2;
+    transform: rotate(293.74deg);
+}
+#button{
+    position: absolute;
+    top: 524px;
+    left: 709px;
+    width: 8px;
+    height: 8px;
+    z-index: 3;
+}
+.roof{
+    position: relative;
+    width: 100%;
+    height: 799px;
+    overflow: hidden;
+}
+.firstflore{
+    position: relative;
+    width: 100%;
+    height: 800px;
+}
+/*
+#house{
+    position: absolute;
+    bottom: 0;
+    width: 1280px;
+    height: 976px;
+}
+*/
+img{
+    width: 100%;
+}
+.pilloy{
+    box-sizing: border-box;
+    position: absolute;
+    width: 296.25px;
+    height: 25px;
+    z-index: 2;
+    border-width: 5px 10px;
+    border-style: solid;
+    border-color: #DBBA95;
+}
+.forpilloy{
+    position: absolute;
+    width: 12.5px;
+    height: 25px;
+    
+    z-index: 3;
+    background: #DBBA95;
+}
+#pill1{
+    left: 12px;
+    top: 758px;
+}
+#fpill1{
+    left: 154.5px;
+    top: 758px;
+}
+#pill2{
+    left: 333px;
+    top: 758px;
+}
+#fpill2{
+    left: 475.5px;
+    top: 758px;
+}
+#pill3{
+    left: 653px;
+    top: 758px;
+}
+#fpill3{
+    left: 795.5px;
+    top: 758px;
+}
+#pill4{
+    left: 972.75px;
+    top: 758px;
+}
+#fpill4{
+    left: 1115.25px;
+    top: 758px;
+}
+#vindou1_1{
+box-sizing: border-box;
+position: absolute;
+width: 273px;
+height: 12px;
+left: 503px;
+top: 242px;
+background: #9E7D5A;
+border-width: 1px 0px;
+border-style: solid;
+border-color: rgba(31, 31, 31, 0.8);
+z-index: 2;
+transform: rotate(90deg);
+
+}
+#vindou1_2{
+box-sizing: border-box;
+position: absolute;
+width: 272.5px;
+height: 12px;
+left: 503.5px;
+top: 240.5px;
+background: #9E7D5A;
+border-width: 1px 0px;
+border-style: solid;
+border-color: rgba(31, 31, 31, 0.8);
+z-index: 2;
+}
+#forroof{
+position: absolute;
+width: 534px;
+height: 28px;
+left: 380px;
+top: 0px;
+background: #773519;
+z-index: 2;
+}
+#forroof1{
+position: absolute;
+width: 504.77px;
+height: 27.87px;
+left: -50px;
+top: 108px;
+background: #773519;
+transform: rotate(-30.7deg);
+z-index: 2;
+}
+#forroof2{
+position: absolute;
+width: 497.93px;
+height: 27.87px;
+left: 859.92px;
+top: 118px;
+background: #773519;
+transform: rotate(-149.3deg);
+z-index: 2;
+}
+
+#box1{
+position: absolute;
+width: 239px;
+height: 239px;
+left: 1004px;
+top: 229px;
+background: #DBBA95;
+z-index: 2;
+}
+
+#box2{
+position: absolute;
+width: 288px;
+height: 288px;
+left: 975px;
+top: 469px;
+background: #DBBA95;
+z-index: 2;
+}
+#fbox2_1{
+position: absolute;
+width: 288px;
+height: 49px;
+left: 975px;
+top: 589px;
+background: #FFFFFF;
+z-index: 3;
+}
