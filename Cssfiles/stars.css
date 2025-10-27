@@ -247,7 +247,7 @@
 #star_38 {
     position: absolute;
     top: 151px;
-    left:  589px;
+    left: 589px;
     z-index: 3;
 }
 
@@ -257,6 +257,7 @@
     left: 659px;
     z-index: 3;
 }
+
 #star_40 {
     position: absolute;
     top: 196px;
@@ -270,6 +271,7 @@
     left: 690px;
     z-index: 3;
 }
+
 #star_42 {
     position: absolute;
     top: 254px;
@@ -283,6 +285,7 @@
     left: 733px;
     z-index: 3;
 }
+
 #star_44 {
     position: absolute;
     top: 303px;

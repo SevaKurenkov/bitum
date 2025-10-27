@@ -421,99 +421,103 @@
 
 }
 
-#textinboxbox1{
-position: absolute;
-width: 78px;
-height: 53px;
-left: 115px;
-top: 453px;
-font-family: 'Bitum';
-font-style: normal;
-font-weight: 700;
-font-size: 41px;
-line-height: 53px;
-color: #826346;
-z-index: 6;
+#textinboxbox1 {
+    position: absolute;
+    width: 78px;
+    height: 53px;
+    left: 115px;
+    top: 453px;
+    font-family: 'Bitum';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 41px;
+    line-height: 53px;
+    color: #826346;
+    z-index: 6;
 }
 
-#textinboxbox3{
-position: absolute;
-width: 73px;
-height: 53px;
-left: 562px;
-top: 649px;
-z-index: 6;
-font-family: 'Bitum';
-font-style: normal;
-font-weight: 300;
-font-size: 41px;
-line-height: 53px;
-color: #826346;
+#textinboxbox3 {
+    position: absolute;
+    width: 73px;
+    height: 53px;
+    left: 562px;
+    top: 649px;
+    z-index: 6;
+    font-family: 'Bitum';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 41px;
+    line-height: 53px;
+    color: #826346;
 }
-#textinboxbox4{
-position: absolute;
-width: 84px;
-height: 53px;
-left: 297px;
-top: 605px;
-font-family: 'Bitum';
-font-style: italic;
-font-weight: 700;
-font-size: 41px;
-line-height: 53px;
-color: #826346;
-transform: rotate(30deg);
-z-index: 6;
-}
-#textinboxbox5{
-z-index: 6;
-position: absolute;
-width: 77px;
-height: 53px;
-left: 820px;
-top: 600px;
-font-family: 'Bitum';
-font-style: normal;
-font-weight: 400;
-font-size: 41px;
-line-height: 53px;
-color: #826346;
-transform: rotate(-72deg);
-}
-#textinboxbox6{
-z-index: 6;
-position: absolute;
-width: 73px;
-height: 53px;
-left: 1015px;
-top: 413px;
-font-family: 'Bitum';
-font-style: italic;
-font-weight: 300;
-font-size: 41px;
-line-height: 53px;
-color: #826346;
-transform: rotate(53.7deg);
 
+#textinboxbox4 {
+    position: absolute;
+    width: 84px;
+    height: 53px;
+    left: 297px;
+    top: 605px;
+    font-family: 'Bitum';
+    font-style: italic;
+    font-weight: 700;
+    font-size: 41px;
+    line-height: 53px;
+    color: #826346;
+    transform: rotate(30deg);
+    z-index: 6;
 }
-#textinboxbox2{
-z-index: 6;
-position: absolute;
-width: 77px;
-height: 53px;
-left: 1075px;
-top: 647px;
-font-family: 'Bitum';
-font-style: italic;
-font-weight: 400;
-font-size: 41px;
-line-height: 53px;
-color: #826346;
-transform: rotate(-45deg);
+
+#textinboxbox5 {
+    z-index: 6;
+    position: absolute;
+    width: 77px;
+    height: 53px;
+    left: 820px;
+    top: 600px;
+    font-family: 'Bitum';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 41px;
+    line-height: 53px;
+    color: #826346;
+    transform: rotate(-72deg);
+}
+
+#textinboxbox6 {
+    z-index: 6;
+    position: absolute;
+    width: 73px;
+    height: 53px;
+    left: 1015px;
+    top: 413px;
+    font-family: 'Bitum';
+    font-style: italic;
+    font-weight: 300;
+    font-size: 41px;
+    line-height: 53px;
+    color: #826346;
+    transform: rotate(53.7deg);
 
 }
 
-#box12{
+#textinboxbox2 {
+    z-index: 6;
+    position: absolute;
+    width: 77px;
+    height: 53px;
+    left: 1075px;
+    top: 647px;
+    font-family: 'Bitum';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 41px;
+    line-height: 53px;
+    color: #826346;
+    transform: rotate(-45deg);
+
+}
+
+#box12 {
     position: absolute;
     z-index: 1;
 }
@@ -615,6 +619,7 @@ transform: rotate(-45deg);
     left: 4px;
     top: 182.5px;
 }
+
 #boxfortextinbox4_3_1 {
     left: 38px;
     top: 182.5px;
@@ -629,6 +634,7 @@ transform: rotate(-45deg);
     left: 4px;
     top: 182.5px;
 }
+
 #boxfortextinbox4_5_1 {
     left: 38px;
     top: 182.5px;
@@ -638,6 +644,7 @@ transform: rotate(-45deg);
     left: 148.5px;
     top: 182.5px;
 }
+
 #boxfortextinbox4_6_1 {
     left: 182.5px;
     top: 182.5px;
@@ -711,6 +718,7 @@ transform: rotate(-45deg);
     left: 7px;
 
 }
+
 #textfortextinbox4_5_1 {
     font-size: 24px;
     line-height: 31px;
@@ -732,6 +740,7 @@ transform: rotate(-45deg);
     top: -2px;
 
 }
+
 #textfortextinbox4_6_1 {
     font-size: 24px;
     line-height: 31px;
@@ -742,6 +751,7 @@ transform: rotate(-45deg);
     font-style: italic;
     font-weight: 400;
 }
+
 #boxopen_slice1 {
     transform: rotate(-112.12deg);
     position: absolute;

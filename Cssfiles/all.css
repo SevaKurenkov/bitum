@@ -1,4 +1,3 @@
-
 #bitum {
     position: absolute;
     top: 200px;
@@ -671,45 +670,50 @@ img {
     z-index: 8;
 }
 
-#bush2{
+#bush2 {
     position: absolute;
-    z-index: 3;
+    z-index: 6;
 }
-#window{
-    position: absolute;
-    z-index: 3;
-}
-#certains{
-    position: absolute;
-    z-index: 3;
-}
-#florflorflor{
-box-sizing: border-box;
-position: absolute;
-width: 1280px;
-height: 18px;
-left: 0px;
-top: 782px;
-background: #773519;
-z-index: 5;
-}
-#windows1{
-box-sizing: border-box;
-position: absolute;
-width: 475px;
-height: 545px;
-left: 1px;
-top: 4px;
-border: 21px solid #9E7D5A;
-}
-#windows2{
-position: absolute;
-width: 554px;
-height: 30px;
-left: 370px;
-top: 744px;
-background: #9E7D5A;
-}
-#windows{
 
+#window {
+    position: absolute;
+    z-index: 3;
 }
+
+#certains {
+    position: absolute;
+    z-index: 3;
+}
+
+#florflorflor {
+    box-sizing: border-box;
+    position: absolute;
+    width: 1280px;
+    height: 18px;
+    left: 0px;
+    top: 782px;
+    background: #773519;
+    z-index: 5;
+}
+
+#windows1 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 475px;
+    height: 545px;
+    left: 408px;
+    top: 134px;
+    border: 21px solid #9E7D5A;
+    z-index: 4;
+}
+
+#windows2 {
+    position: absolute;
+    width: 554px;
+    height: 30px;
+    left: 370px;
+    top: 744px;
+    background: #9E7D5A;
+}
+
+#windows {}
