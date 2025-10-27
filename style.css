@@ -174,24 +174,7 @@ body {
 
 }
 
-#DVD {
-    position: absolute;
-    top: 500px;
-    left: 588px;
-    width: 44px;
-    height: 26px;
-    z-index: 2;
-    transform: rotate(293.74deg);
-}
 
-#button {
-    position: absolute;
-    top: 524px;
-    left: 709px;
-    width: 8px;
-    height: 8px;
-    z-index: 3;
-}
 
 .roof {
     position: relative;
@@ -356,35 +339,270 @@ img {
 }
 
 #text1forgourm {
-position: absolute;
-width: 867px;
-height: 83px;
-left: 200px;
-top: 5px;
-font-family: 'Bitum';
-font-style: normal;
-font-weight: 400;
-font-size: 64px;
-line-height: 83px;
-display: flex;
-align-items: center;
-text-align: center;
-color: #DBBA95;
+    position: absolute;
+    width: 867px;
+    height: 83px;
+    left: 200px;
+    top: 5px;
+    font-family: 'Bitum';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 83px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #DBBA95;
 }
 
 #text2forgourm {
-position: absolute;
-width: 846px;
-height: 83px;
-left: 212px;
-top: 78px;
-font-family: 'Bitum';
-font-style: normal;
-font-weight: 400;
-font-size: 64px;
-line-height: 83px;
-display: flex;
-align-items: center;
-text-align: center;
-color: #DBBA95;
+    position: absolute;
+    width: 846px;
+    height: 83px;
+    left: 212px;
+    top: 78px;
+    font-family: 'Bitum';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 83px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #DBBA95;
+}
+
+#flor1flore {
+    box-sizing: border-box;
+    position: absolute;
+    width: 1280px;
+    height: 18px;
+    left: 0px;
+    top: 0px;
+    background: #773519;
+    z-index: 2;
+}
+
+#lamp1 {
+    position: absolute;
+    width: 3px;
+    height: 58px;
+    left: 624px;
+    top: 18px;
+    background: #FFFFFF;
+    z-index: 2;
+}
+
+#lamp2 {
+    position: absolute;
+    width: 22.19px;
+    height: 80.05px;
+    left: 614.58px;
+    top: 76px;
+    background: #FFFFFF;
+    z-index: 2;
+}
+
+#TV {
+    transform: rotate(-64.36deg);
+    z-index: 2;
+    box-sizing: border-box;
+    position: absolute;
+    width: 229.18px;
+    height: 145.37px;
+    left: 495.02px;
+    top: 524.07px;
+    background: #242424;
+    border: 15px solid #000000;
+
+}
+
+#DVD {
+    position: absolute;
+    top: 500px;
+    left: 588px;
+    width: 44px;
+    height: 26px;
+    z-index: 3;
+    transform: rotate(293.74deg);
+}
+
+#button {
+    position: absolute;
+    top: 524px;
+    left: 709px;
+    width: 8px;
+    height: 8px;
+    z-index: 3;
+}
+
+#boxopen_slice1 {
+    transform: rotate(-112.12deg);
+    position: absolute;
+    width: 9.5px;
+    height: 109px;
+    left: 753.53px;
+    top: 493.92px;
+    background: #DBBA95;
+    z-index: 3;
+}
+
+#boxopen_slice2 {
+    transform: rotate(-69.89deg);
+    position: absolute;
+    width: 9.5px;
+    height: 109px;
+    left: 439.56px;
+    top: 495.7px;
+    background: #DBBA95;
+    z-index: 3;
+}
+
+#flor2flore {
+    box-sizing: border-box;
+    position: absolute;
+    width: 1280px;
+    height: 17px;
+    left: 0.5px;
+    top: 783px;
+    background: #773519;
+    z-index: 2;
+}
+
+.box218 {
+    position: absolute;
+    width: 218px;
+    height: 218px;
+    z-index: 3;
+    background: #DBBA95;
+
+}
+
+#box218_1 {
+    left: 491.5px;
+    top: 564.5px;
+}
+
+#box218_2 {
+    left: 45.1px;
+    top: 369.6px;
+    transform: rotate(45deg);
+
+}
+
+#box218_3 {
+    transform: rotate(30.4deg);
+    left: 233px;
+    top: 524px;
+}
+
+#box218_4 {
+    left: 747.3px;
+    top: 521.8px;
+    transform: rotate(-27.2deg);
+
+}
+
+#box218_5 {
+    transform: rotate(8.7deg);
+    left: 943.3px;
+    top: 331.3px;
+
+}
+
+#box218_6 {
+    left: 1003px;
+    top: 565px;
+}
+
+#boxwithmaintext {
+    position: absolute;
+    width: 640.82px;
+    height: 213.1px;
+    left: 296.43px;
+    top: 248.03px;
+    transform: rotate(-1.5deg);
+    background: #DBBA95;
+    z-index: 2;
+}
+
+#textformaintext {
+    position: absolute;
+    width: 633.75px;
+    height: 133.16px;
+    left: 26px;
+    top: 26px;
+    font-family: 'Bitum';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 33px;
+    line-height: 95%;
+    letter-spacing: -0.06em;
+    color: #826346;
+}
+
+.boxfortextinbox4 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 31px;
+    height: 31px;
+    border: 2px solid #8C6A4E;
+    z-index: 5;
+}
+
+#boxfortextinbox4_1 {
+    left: 182.5px;
+    top: 182.5px;
+
+}
+
+#boxfortextinbox4_2 {
+    left: 182.5px;
+    top: 182.5px;
+
+}
+
+#boxfortextinbox4_3 {}
+
+#boxfortextinbox4_4 {}
+
+#boxfortextinbox4_5 {}
+
+
+
+.textfortextinbox4 {
+    position: absolute;
+    font-style: normal;
+    color: #8C6A4E;
+}
+
+#textfortextinbox4_1 {
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 26px;
+    width: 12px;
+    height: 26px;
+    left: 7px;
+}
+
+#textfortextinbox4_2 {
+    width: 17px;
+    height: 31px;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 31px;
+    left: 5px;
+    top: -2px;
+
+}
+
+#textfortextinbox4_3 {}
+
+#textfortextinbox4_4 {}
+
+#textfortextinbox4_5 {}
+
+#stics{
+    position: absolute;
+    z-index: 4;
 }
