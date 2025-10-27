@@ -823,3 +823,44 @@ transform: rotate(-45deg);
     left: 1115.25px;
     top: 758px;
 }
+
+#boxfor19 {
+    position: absolute;
+    width: 234px;
+    height: 275px;
+    left: 182px;
+    top: 287px;
+    background: #DBBA95;
+    z-index: 2;
+}
+
+#boxfor191 {
+    position: absolute;
+    width: 216px;
+    height: 298px;
+    left: 560px;
+    top: 487px;
+    background: #DBBA95;
+    z-index: 2;
+}
+
+#boxfor192 {
+    position: absolute;
+    width: 246px;
+    height: 286px;
+    left: 648px;
+    top: 59px;
+    background: #DBBA95;
+    transform: rotate(-25.5deg);
+    z-index: 2;
+}
+
+#boxfor193 {
+    position: absolute;
+    width: 291px;
+    height: 330.5px;
+    left: 823px;
+    top: 338px;
+    background: #DBBA95;
+    z-index: 2;
+}
