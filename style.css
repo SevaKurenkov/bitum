@@ -35,12 +35,6 @@ body {
     background-color: #915222;
 }
 
-.thirdflore {
-    position: relative;
-    width: 100%;
-    height: 800px;
-}
-
 .windowflore {
     position: relative;
     width: 100%;
@@ -59,9 +53,6 @@ body {
     height: 163px;
     background-color: #342119;
 }
-
-
-
 
 .stars {
     position: absolute;
@@ -175,8 +166,6 @@ body {
 
 }
 
-
-
 .roof {
     position: relative;
     width: 100%;
@@ -184,7 +173,84 @@ body {
     overflow: hidden;
 }
 
+#DVDtext {
+    position: absolute;
+    width: 42px;
+    height: 26px;
+    left: 583px;
+    top: 498px;
+    font-family: 'Bitum';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+    color: #826346;
+    transform: rotate(-66deg);
+    z-index: 4;
+}
 
+#bitumbitum {
+    position: absolute;
+    width: 55px;
+    height: 23px;
+    left: 132px;
+    top: 756px;
+    font-family: 'Bitum';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 23px;
+    color: #826346;
+    z-index: 4;
+}
+
+#bitumbitumbitum {
+    position: absolute;
+    width: 78px;
+    height: 32px;
+    left: 81px;
+    top: 692px;
+    font-family: 'Bitum';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 32px;
+    color: #826346;
+    transform: rotate(-45deg);
+    z-index: 6;
+}
+
+#bitumbitumbitum1 {
+    position: absolute;
+    width: 28px;
+    height: 12px;
+    left: 44.5px;
+    top: 389.5px;
+    font-family: 'Bitum';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 9px;
+    line-height: 12px;
+    color: #826346;
+    transform: rotate(5deg);
+    z-index: 6;
+}
+
+#bitumbitum1 {
+    position: absolute;
+    width: 37px;
+    height: 16px;
+    left: 22px;
+    top: 356px;
+    font-family: 'Bitum';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 16px;
+    color: #826346;
+    transform: rotate(-40deg);
+    z-index: 6;
+}
 
 img {
     width: 100%;
@@ -323,14 +389,15 @@ img {
     background: #773519;
     z-index: 2;
 }
+
 #flor0flore {
-box-sizing: border-box;
-position: absolute;
-width: 1280px;
-height: 17px;
-top: 783px;
-background: #773519;
-z-index: 4;
+    box-sizing: border-box;
+    position: absolute;
+    width: 1280px;
+    height: 17px;
+    top: 783px;
+    background: #773519;
+    z-index: 4;
 }
 
 #lamp1 {
@@ -385,16 +452,18 @@ z-index: 4;
     height: 8px;
     z-index: 3;
 }
+
 #flor2flore {
     box-sizing: border-box;
     position: absolute;
     width: 1280px;
     height: 17px;
-    left: 0.5px;
+    left: 0px;
     top: 783px;
     background: #773519;
     z-index: 2;
 }
+
 #stics {
     position: absolute;
     z-index: 4;
@@ -407,10 +476,251 @@ z-index: 4;
 
 #round {
     position: absolute;
-    z-index: 3;
+    z-index: 4;
 }
 
 #color {
     position: absolute;
-    z-index: 5;
+    z-index: 6;
+}
+
+#shelf1 {
+    position: absolute;
+    width: 250px;
+    height: 19px;
+    left: 72px;
+    top: 171px;
+    background: #9E7D5A;
+}
+
+#shelf2 {
+    position: absolute;
+    width: 15px;
+    height: 22px;
+    left: 79px;
+    top: 190px;
+    background: #9E7D5A;
+}
+
+#shelf3 {
+    position: absolute;
+    width: 15px;
+    height: 22px;
+    left: 297px;
+    top: 190px;
+    background: #9E7D5A;
+}
+
+#ceiling {
+    box-sizing: border-box;
+    position: absolute;
+    width: 1280px;
+    height: 17px;
+    left: 0px;
+    top: 0px;
+    background: #773519;
+}
+
+#light {
+    position: absolute;
+    width: 100.5px;
+    height: 30px;
+    left: 942px;
+    top: 61.5px;
+    background: #FFFFFF;
+    transform: rotate(-29.3deg);
+    z-index: 0;
+}
+
+#boxfor19 {
+    position: absolute;
+    width: 234px;
+    height: 275px;
+    left: 182px;
+    top: 287px;
+    background: #DBBA95;
+    z-index: 2;
+}
+
+#boxfor191 {
+    position: absolute;
+    width: 216px;
+    height: 298px;
+    left: 560px;
+    top: 487px;
+    background: #DBBA95;
+    z-index: 2;
+}
+
+#boxfor192 {
+    position: absolute;
+    width: 246.79px;
+    height: 286.83px;
+    left: 648.19px;
+    top: 59.86px;
+    background: #DBBA95;
+    transform: rotate(-25.5deg);
+    z-index: 2;
+}
+
+#boxfor193 {
+    position: absolute;
+    width: 291px;
+    height: 334px;
+    left: 823px;
+    top: 339px;
+    background: #DBBA95;
+    z-index: 2;
+}
+
+#shelf4 {
+    position: absolute;
+    width: 250px;
+    height: 19px;
+    left: 175px;
+    top: 563px;
+    background: #9E7D5A;
+}
+
+#shelf5 {
+    position: absolute;
+    width: 15px;
+    height: 22px;
+    left: 400px;
+    top: 582px;
+    background: #9E7D5A;
+}
+
+#shelf6 {
+    position: absolute;
+    width: 15px;
+    height: 22px;
+    left: 182px;
+    top: 582px;
+    background: #9E7D5A;
+}
+
+
+#text19_1 {
+    position: absolute;
+    width: 276px;
+    height: 608px;
+    left: 161px;
+    top: 90px;
+    font-family: 'Bitum';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 469px;
+    line-height: 608px;
+    color: #FFFFFF;
+    z-index: 3;
+}
+
+#text19_2 {
+    position: absolute;
+    width: 286px;
+    height: 608px;
+    left: 606.4px;
+    top: -129.82px;
+    font-family: 'Bitum';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 469px;
+    line-height: 608px;
+    color: #FFFFFF;
+    transform: rotate(-25.5deg);
+    z-index: 3;
+}
+
+#text19_3 {
+    z-index: 3;
+    position: absolute;
+    width: 289px;
+    height: 608px;
+    left: 529px;
+    top: 290px;
+    font-family: 'Bitum';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 469px;
+    line-height: 608px;
+    color: #FFFFFF;
+}
+
+#text19_4 {
+    z-index: 3;
+    position: absolute;
+    width: 387px;
+    height: 608px;
+    left: 775px;
+    top: 201px;
+    font-family: 'Bitum';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 469px;
+    line-height: 608px;
+    color: #FFFFFF;
+}
+
+#text48_1 {
+    position: absolute;
+    width: 24px;
+    height: 26px;
+    left: 834px;
+    top: 529px;
+    font-family: 'Bitum';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+    color: #8FCAFB;
+    z-index: 7;
+
+}
+
+#text48_2 {
+    position: absolute;
+    width: 24px;
+    height: 26px;
+    left: 1079px;
+    top: 529px;
+    font-family: 'Bitum';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+    color: #8FCAFB;
+    z-index: 7;
+}
+
+#text48_3 {
+position: absolute;
+width: 24px;
+height: 26px;
+left: 906.17px;
+top: 518.69px;
+font-family: 'Bitum';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+color: #8FCAFB;
+transform: rotate(-23.35deg);
+z-index: 7;
+}
+
+#text48_4 {
+position: absolute;
+width: 24px;
+height: 26px;
+left: 1005.16px;
+top: 517.69px;
+font-family: 'Bitum';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+color: #8FCAFB;
+transform: rotate(23.31deg);
+z-index: 7;
 }

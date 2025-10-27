@@ -514,16 +514,8 @@ transform: rotate(-45deg);
 }
 
 #box12{
-    top: 9px;
-    left: 0.5px;
     position: absolute;
     z-index: 1;
-}
-#box21{
-    top: 9px;
-    left: 0.5px;
-    position: absolute;
-    z-index: 5;
 }
 
 .box218 {
