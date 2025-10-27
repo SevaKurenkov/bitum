@@ -1,207 +1,298 @@
-#star_1{
+#star_1 {
     position: absolute;
     top: 35px;
     left: 267px;
 }
-#star_2{
+
+#star_2 {
     position: absolute;
     top: 17.88px;
     left: 535.24px;
     rotate: 260deg;
 }
-#star_3{
+
+#star_3 {
     position: absolute;
     top: 29px;
     left: 751px;
 }
-#star_4{
+
+#star_4 {
     position: absolute;
     top: 21px;
     left: 1065px;
 }
-#star_5{
+
+#star_5 {
     position: absolute;
     top: 140px;
     left: 250px;
     rotate: 60deg;
 }
-#star_6{
+
+#star_6 {
     position: absolute;
     top: 100px;
     left: 363px;
 }
-#star_7{
+
+#star_7 {
     position: absolute;
     top: 137px;
     left: 525px;
     rotate: 68deg;
 }
-#star_8{
+
+#star_8 {
     position: absolute;
     top: 99px;
     left: 732px;
     rotate: -32deg;
 }
-#star_9{
+
+#star_9 {
     position: absolute;
     top: 91px;
     left: 979px;
     rotate: 166deg;
 }
-#star_10{
+
+#star_10 {
     position: absolute;
     top: 134px;
     left: 1170px;
 }
-#star_11{
+
+#star_11 {
     position: absolute;
     top: 167px;
     left: 1246px;
     rotate: -32deg;
 }
-#star_12{
+
+#star_12 {
     position: absolute;
     top: 191px;
     left: 960px;
     rotate: 0deg;
 }
-#star_13{
+
+#star_13 {
     position: absolute;
     top: 196px;
     left: 1105px;
     rotate: -32deg;
 }
-#star_14{
+
+#star_14 {
     position: absolute;
     top: 272px;
     left: 80px;
 }
-#star_15{
+
+#star_15 {
     position: absolute;
     top: 281px;
     left: 231px;
 }
-#star_16{
+
+#star_16 {
     position: absolute;
     top: 394px;
     left: 60px;
 }
-#star_17{
+
+#star_17 {
     position: absolute;
     top: 396px;
     left: 561px;
 }
-#star_18{
+
+#star_18 {
     position: absolute;
     top: 321px;
     left: 698px;
 }
-#star_19{
+
+#star_19 {
     position: absolute;
     top: 380px;
     left: 736px;
     rotate: 70deg;
 }
-#star_20{
+
+#star_20 {
     position: absolute;
     top: 354px;
     left: 938px;
 }
-#star_21{
+
+#star_21 {
     position: absolute;
     top: 438px;
     left: 1085px;
 }
-#star_22{
+
+#star_22 {
     position: absolute;
     top: 303px;
     left: 1230px;
 }
-#star_23{
+
+#star_23 {
     position: absolute;
     top: 449px;
     left: 1229px;
     rotate: 62deg;
 }
-#star_24{
+
+#star_24 {
     position: absolute;
     top: 549px;
     left: 39px;
     rotate: -28deg;
 }
-#star_25{
+
+#star_25 {
     position: absolute;
     top: 668px;
     left: 49px;
     rotate: -50deg;
 }
-#star_26{
+
+#star_26 {
     position: absolute;
     top: 867px;
     left: 20px;
     rotate: -50deg;
     z-index: 2;
 }
-#star_27{
+
+#star_27 {
     position: absolute;
     top: 861px;
     left: 114px;
     z-index: 2;
 }
-#star_28{
+
+#star_28 {
     position: absolute;
     top: 779px;
     left: 200px;
     rotate: -32deg;
     z-index: 2;
 }
-#star_29{
+
+#star_29 {
     position: absolute;
     top: 581px;
     left: 321px;
     rotate: 90deg;
 }
-#star_30{
+
+#star_30 {
     position: absolute;
     top: 715px;
     left: 387px;
     rotate: 21deg;
 }
-#star_31{
+
+#star_31 {
     position: absolute;
     top: 606px;
     left: 472px;
     rotate: -32deg;
 }
-#star_32{
+
+#star_32 {
     position: absolute;
     top: 576px;
     left: 679px;
 }
-#star_33{
+
+#star_33 {
     position: absolute;
     top: 634px;
     left: 799px;
 }
-#star_34{
+
+#star_34 {
     position: absolute;
     top: 606px;
     left: 949px;
 }
-#star_35{
+
+#star_35 {
     position: absolute;
     top: 749px;
     left: 942px;
     rotate: 40deg;
 }
-#star_36{
+
+#star_36 {
     position: absolute;
     top: 830px;
     left: 1142px;
     z-index: 2;
 }
-#star_37{
+
+#star_37 {
     position: absolute;
     top: 737px;
     left: 1220px;
+}
+
+
+
+#star_38 {
+    position: absolute;
+    top: 151px;
+    left:  589px;
+    z-index: 3;
+}
+
+#star_39 {
+    position: absolute;
+    top: 130px;
+    left: 659px;
+    z-index: 3;
+}
+#star_40 {
+    position: absolute;
+    top: 196px;
+    left: 575px;
+    z-index: 3;
+}
+
+#star_41 {
+    position: absolute;
+    top: 187px;
+    left: 690px;
+    z-index: 3;
+}
+#star_42 {
+    position: absolute;
+    top: 254px;
+    left: 544px;
+    z-index: 3;
+}
+
+#star_43 {
+    position: absolute;
+    top: 252px;
+    left: 733px;
+    z-index: 3;
+}
+#star_44 {
+    position: absolute;
+    top: 303px;
+    left: 577px;
+    z-index: 3;
+}
+
+#star_45 {
+    position: absolute;
+    top: 321px;
+    left: 686px;
+    z-index: 3;
 }
