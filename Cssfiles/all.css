@@ -520,21 +520,6 @@ img {
     color: #FFFFFF;
 }
 
-#text19_4 {
-    z-index: 3;
-    position: absolute;
-    width: 387px;
-    height: 608px;
-    left: 775px;
-    top: 201px;
-    font-family: 'Bitum';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 469px;
-    line-height: 608px;
-    color: #FFFFFF;
-}
-
 #text48_1 {
     position: absolute;
     width: 24px;
@@ -549,6 +534,21 @@ img {
     color: #8FCAFB;
     z-index: 7;
 
+}
+
+#text19_4 {
+    z-index: 3;
+    position: absolute;
+    width: 387px;
+    height: 608px;
+    left: 775px;
+    top: 201px;
+    font-family: 'Bitum';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 469px;
+    line-height: 608px;
+    color: #FFFFFF;
 }
 
 #text48_2 {

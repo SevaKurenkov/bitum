@@ -6,14 +6,14 @@
 
 @font-face {
     font-family: 'Bitum';
-    src: url(assets/fonts/Bitum-BoldItalic.ttf) format(truetype);
-    font-weight: 800;
+    src: url(assets/fonts/Bitum-Italic.ttf) format(truetype);
     font-style: italic;
 }
 
 @font-face {
     font-family: 'Bitum';
-    src: url(assets/fonts/Bitum-Italic.ttf) format(truetype);
+    src: url(assets/fonts/Bitum-BoldItalic.ttf) format(truetype);
+    font-weight: 800;
     font-style: italic;
 }
 

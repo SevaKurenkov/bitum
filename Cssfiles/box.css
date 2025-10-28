@@ -1092,7 +1092,6 @@
 }
 
 #textinboxforbottom4 {
-    z-index: 7;
     position: absolute;
     width: 44px;
     height: 18px;
@@ -1107,4 +1106,5 @@
     align-items: center;
     text-align: center;
     color: #000000;
+    z-index: 7;
 }
