@@ -715,5 +715,115 @@ img {
     top: 744px;
     background: #9E7D5A;
 }
+.letters{
+    position: absolute;
+    font-family: 'Bitum';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 83px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #8FCAFB;
+    z-index: 8;
+}
+#letter1 {
+    width: 91.5px;
+    height: 105.5px;
+    left: 440px;
+    top: 158px;
+}
 
-#windows {}
+#letter2 {
+    width: 95px;
+    height: 105px;
+    left: 568px;
+    top: 158px;
+}
+
+#letter3 {
+    width: 95px;
+    height: 105px;
+    left: 687px;
+    top: 158px;
+}
+
+#letter4 {
+    width: 91.5px;
+    height: 105px;
+    left: 795px;
+    top: 158px;
+}
+
+#letter5 {
+    width: 92.5px;
+    height: 113.5px;
+    left: 790px;
+    top: 282px;
+}
+
+#letter6 {
+    width: 92.5px;
+    height: 113.5px;
+    left: 780px;
+    top: 415.5px;
+}
+
+#letter7 {
+    width: 91.5px;
+    height: 105px;
+    left: 776px;
+    top: 548.5px;
+}
+
+#letter8 {
+    width: 94.5px;
+    height: 105px;
+    left: 690px;
+    top: 548.5px;
+}
+
+#letter9 {
+    width: 95px;
+    height: 106px;
+    left: 560px;
+    top: 548.5px;
+}
+
+#letter10 {
+    width: 91.5px;
+    height: 105.5px;
+    left: 455px;
+    top: 549px;
+}
+
+#letter11 {
+    width: 91.5px;
+    height: 113.5px;
+    left: 452px;
+    top: 416px;
+}
+
+#letter12 {
+    width: 91.5px;
+    height: 111.5px;
+    left: 448px;
+    top: 284px;
+}
+
+#letterX {
+position: absolute;
+width: 92px;
+height: 195px;
+left: 601px;
+top: 293.5px;
+font-family: 'Bitum';
+font-style: normal;
+font-weight: 400;
+font-size: 150.5px;
+line-height: 195px;
+color: #8FCAFB;
+z-index: 8;
+
+}
