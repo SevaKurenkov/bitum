@@ -715,7 +715,8 @@ img {
     top: 744px;
     background: #9E7D5A;
 }
-.letters{
+
+.letters {
     position: absolute;
     font-family: 'Bitum';
     font-style: normal;
@@ -728,6 +729,7 @@ img {
     color: #8FCAFB;
     z-index: 8;
 }
+
 #letter1 {
     width: 91.5px;
     height: 105.5px;
@@ -813,17 +815,16 @@ img {
 }
 
 #letterX {
-position: absolute;
-width: 92px;
-height: 195px;
-left: 601px;
-top: 293.5px;
-font-family: 'Bitum';
-font-style: normal;
-font-weight: 400;
-font-size: 150.5px;
-line-height: 195px;
-color: #8FCAFB;
-z-index: 8;
-
+    position: absolute;
+    width: 92px;
+    height: 195px;
+    left: 601px;
+    top: 293.5px;
+    font-family: 'Bitum';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 150.5px;
+    line-height: 195px;
+    color: #8FCAFB;
+    z-index: 8;
 }
